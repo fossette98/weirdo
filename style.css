@@ -1,0 +1,29 @@
+.header{
+    padding: 5px 0;
+    background-color: #faf7f2;
+}
+.header li{
+    margin: 0 20px;
+}
+.header li:first-child{
+    margin-left:5px ;
+}
+.header li:last-child{
+    margin-right:5px ;
+}
+.header li a{
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+    color: rgb(19, 19, 19);
+}
+.logo img{
+    width: 80px;
+}
+.banner{
+    height: 100vh;
+    background: url(img/banner.jpg);
+    background-position: center;
+}
